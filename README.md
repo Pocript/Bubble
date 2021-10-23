@@ -1,5 +1,5 @@
 # Bubble
-## _Chatting Web app_
+## Chatting Web app
 
 [![intruduce](https://raw.githubusercontent.com/Pocript/Bubble/main/resource/preview.png)](https://nodesource.com/products/nsolid)
 
