@@ -1,7 +1,7 @@
 # Bubble
 ## _Chatting Web app_
 
-[![intruduce](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![intruduce](https://raw.githubusercontent.com/Pocript/Bubble/main/resource/preview.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
